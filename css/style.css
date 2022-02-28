@@ -1,3 +1,63 @@
-h1 {
-    background-color: brown;
+.margin{
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 3px 8px 2px rgb(102, 31, 70);
+}
+
+.title-h1{
+    padding: 20px;
+}
+
+.Players{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search-filed{
+    background-color: rgba(111, 8, 65, 0.372);
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    border: none ;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px 2px rgba(170, 8, 97, 0.144);
+}
+
+.aearch-button{
+    background-color: rgba(111, 8, 65, 0.372);
+    color: #fff;
+    padding: 5px 40px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 3px 3px 8px 2px rgba(170, 8, 97, 0.144);
+
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.section-1{
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px 2px rgba(170, 8, 97, 0.562);
+    padding: 30px;
+    
+}
+
+.section-2{
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px 2px rgba(170, 8, 97, 0.562);
+    padding: 30px;
+    
 }
